@@ -1,3 +1,16 @@
 body {
-    background: blue;
+    background: #FDF5E6;
+}
+
+header {
+    background: url(..images/WebsiteHeader.jpg);
+    color: white;
+    font-family: Didot, Georgia;
+    text-align: center;
+}
+
+h2 {
+    color: #006400;
+    font-family: Verdana;
+    font-weight: bold;
 }
