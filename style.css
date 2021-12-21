@@ -15,10 +15,10 @@ body {
 
 .header {
     background: #006400;
-    background-image: url(Images/WebsiteHeader.jpg);
+    background-image: url(Images/Header3.jpg);
     background-repeat: no-repeat;
-    color: white;
-    font-family: Didot, Georgia;
+    background-size: 1700px;
+    background-position: center top;
     width: 100%;
     height: 600px;
     margin-top: 0px;
@@ -26,20 +26,24 @@ body {
 }
 
 .header h1 {
+    color: #FDF5E6;
+    font-family: 'Playfair Display', serif;
     display: block;
-    font-size: 100px;
-    letter-spacing: 5px;
+    font-size: 150px;
+    letter-spacing: 10px;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 150px;
+    text-shadow: 0 0 10px #000080;
 }
 
 h2 {
-    color: #006400;
+    color: #000080;
     font-family: Verdana;
     font-weight: bold;
 }
 
 .header nav {
+    color: white;
     font-size: 20px;
     text-align: center;
     padding-top: 200px;
